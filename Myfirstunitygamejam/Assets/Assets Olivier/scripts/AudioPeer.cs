@@ -6,7 +6,7 @@ using UnityEngine;
 public class AudioPeer : MonoBehaviour
 {
     private AudioSource _audioSource;
-    public float[] _samples = new float[512];
+    public static float[] _samples = new float[512];
     // Start is called before the first frame update
     void Start()
     {
@@ -16,7 +16,7 @@ public class AudioPeer : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
+    { 
         GetSpectrumAudioSource();
         
     }

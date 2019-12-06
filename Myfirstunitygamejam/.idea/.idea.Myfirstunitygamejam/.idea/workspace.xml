@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8137e9b9-60f3-4ee7-976c-1f6637f95240" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Assets Olivier/_Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets Olivier/_Prefabs/parametric-cube.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets Olivier/_Prefabs/parametric-cube.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets Olivier/audiofiles/RX_20190423.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets Olivier/audiofiles/RX_20190423.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets Olivier/audiofiles/Reel 2016 (B).wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets Olivier/audiofiles/Reel 2016 (B).wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets Olivier/scripts/Instantiate512Cubes.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Myfirstunitygamejam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Myfirstunitygamejam/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Assets Olivier/scripts/AudioPeer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets Olivier/scripts/AudioPeer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,12 +24,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Assets Olivier/scripts/Instantiate512Cubes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Assets Olivier/scripts/AudioPeer.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Assets Olivier/scripts/AudioPeer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Assets Olivier/scripts/Instantiate512Cubes.cs" />
       </list>
     </option>
   </component>
@@ -34,6 +45,12 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -76,7 +93,8 @@
       <workItem from="1575620944907" duration="635000" />
       <workItem from="1575622070578" duration="93000" />
       <workItem from="1575622179667" duration="89000" />
-      <workItem from="1575622310435" duration="247000" />
+      <workItem from="1575622310435" duration="503000" />
+      <workItem from="1575653655711" duration="3553000" />
     </task>
     <servers />
   </component>
