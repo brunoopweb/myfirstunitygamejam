@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8137e9b9-60f3-4ee7-976c-1f6637f95240" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Assets Olivier/audiofiles.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets Olivier/audiofiles/RX_20190422.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets Olivier/audiofiles/RX_20190422.wav.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Myfirstunitygamejam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Myfirstunitygamejam/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Assets Olivier/scripts/AudioPeer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets Olivier/scripts/AudioPeer.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -56,10 +55,10 @@
       <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="20606">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="20606" />
       <option name="userSelectedPid" value="false" />
       <method v="2" />
     </configuration>
@@ -75,20 +74,25 @@
       <option name="presentableId" value="Default" />
       <updated>1575620940968</updated>
       <workItem from="1575620944907" duration="635000" />
+      <workItem from="1575622070578" duration="93000" />
+      <workItem from="1575622179667" duration="89000" />
+      <workItem from="1575622310435" duration="247000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
-  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

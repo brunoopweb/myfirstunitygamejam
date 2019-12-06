@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[RequireComponent (typeof (AudioSource))] 
-public class NewBehaviourScript : MonoBehaviour
+[RequireComponent (typeof (AudioSource))]
+public class AudioPeer : MonoBehaviour
 {
     private AudioSource _audioSource;
     public float[] _samples = new float[512];
