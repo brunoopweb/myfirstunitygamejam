@@ -23,6 +23,6 @@ public class NewBehaviourScript : MonoBehaviour
 
     void GetSpectrumAudioSource()
     {
-        -_audioSource.GetSpectrumData(_samples, 0, FFTWindow.Blackman)
+        _audioSource.GetSpectrumData(_samples, 0, FFTWindow.Blackman);
     }
 }

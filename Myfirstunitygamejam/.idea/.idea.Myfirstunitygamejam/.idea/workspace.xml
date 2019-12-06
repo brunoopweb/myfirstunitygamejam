@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8137e9b9-60f3-4ee7-976c-1f6637f95240" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Myfirstunitygamejam/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Myfirstunitygamejam/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Myfirstunitygamejam/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Myfirstunitygamejam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets Olivier/audiofiles.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets Olivier/audiofiles/RX_20190422.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets Olivier/audiofiles/RX_20190422.wav.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Assets Olivier/scripts/AudioPeer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets Olivier/scripts/AudioPeer.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +27,11 @@
     </option>
   </component>
   <component name="ProjectId" id="1UbMf2TaYNvqBNyIIYma1jh1DFI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -71,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575620940968</updated>
-      <workItem from="1575620944907" duration="296000" />
+      <workItem from="1575620944907" duration="635000" />
     </task>
     <servers />
   </component>
@@ -92,6 +95,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>
   <component name="XDebuggerManager">
