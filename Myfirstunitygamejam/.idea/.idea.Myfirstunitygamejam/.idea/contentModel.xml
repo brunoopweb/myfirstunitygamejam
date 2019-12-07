@@ -9,6 +9,8 @@
         <e p="Assets Olivier" t="Include">
           <e p="scripts" t="Include">
             <e p="AudioPeer.cs" t="Include" />
+            <e p="Instantiate512Cubes.cs" t="Include" />
+            <e p="ParamCube.cs" t="Include" />
           </e>
         </e>
       </e>

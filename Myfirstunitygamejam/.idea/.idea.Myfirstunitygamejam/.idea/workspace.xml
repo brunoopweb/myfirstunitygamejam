@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8137e9b9-60f3-4ee7-976c-1f6637f95240" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Assets Olivier/_Prefabs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets Olivier/_Prefabs/parametric-cube.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets Olivier/_Prefabs/parametric-cube.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets Olivier/audiofiles/RX_20190423.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets Olivier/audiofiles/RX_20190423.wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets Olivier/audiofiles/Reel 2016 (B).wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets Olivier/audiofiles/Reel 2016 (B).wav.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Assets Olivier/scripts/Instantiate512Cubes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Assets Olivier/scripts/ParamCube.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Myfirstunitygamejam/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Myfirstunitygamejam/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Myfirstunitygamejam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Myfirstunitygamejam/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Assets Olivier/scripts/AudioPeer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Assets Olivier/scripts/AudioPeer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,14 +17,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Assets Olivier/scripts/Instantiate512Cubes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Assets Olivier/scripts/Instantiate512Cubes.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Assets Olivier/scripts/AudioPeer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Assets Olivier/scripts/ParamCube.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Assets Olivier/scripts/AudioPeer.cs" />
         <option value="$PROJECT_DIR$/Assets/Assets Olivier/scripts/Instantiate512Cubes.cs" />
+        <option value="$PROJECT_DIR$/Assets/Assets Olivier/scripts/AudioPeer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Assets Olivier/scripts/ParamCube.cs" />
       </list>
     </option>
   </component>
@@ -64,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -95,6 +90,7 @@
       <workItem from="1575622179667" duration="89000" />
       <workItem from="1575622310435" duration="503000" />
       <workItem from="1575653655711" duration="3553000" />
+      <workItem from="1575706071346" duration="1991000" />
     </task>
     <servers />
   </component>
